@@ -1,0 +1,16 @@
+{
+  "name": "ejsminiproj",
+  "version": "1.0.0",
+  "description": "Learning backend with ejs ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Soumik Sen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "learnmulter",
+  "version": "1.0.0",
+  "description": "Learning how to use multer in project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Soumik Sen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7"
+  }
+}

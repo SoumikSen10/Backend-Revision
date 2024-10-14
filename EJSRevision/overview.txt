@@ -1,0 +1,16 @@
+1) Initialize the project with npm
+
+2) Express and ejs install 
+
+3) Setup ejs as a view engine
+
+4) Dynamic routing
+   (Also how to get data coming from frontend at backend route)
+
+5) Setting up parsers for form
+
+6) Setting up ejs for ejs pages
+
+7) Setting up public static files
+
+8) Create ejs pages and keep them in a folder named "views"
